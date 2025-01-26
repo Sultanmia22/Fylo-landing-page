@@ -427,7 +427,7 @@ hr{
         padding: 13px 25px;
         background-color: hsl(224, 93%, 58%);
         border: none;
-        width: 100%;
+        width: 90%;
     }
 
     .footer-parent {
@@ -448,6 +448,9 @@ hr{
     
     .footer-four{
         text-align: center;
+    }
+    .secound-input {
+        width: 90%;
     }
 
    }
